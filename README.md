@@ -213,10 +213,3 @@ git remote set-url origin https://github.com/phuebner81/vtkUtils.git
 git push -u origin main
 ```
 
-## License
-
-Add a license file if this repository will be shared publicly or reused by others.
-
-## Author
-
-Philipp Huebner
