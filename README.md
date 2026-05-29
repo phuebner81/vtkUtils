@@ -196,20 +196,4 @@ vtkCompanyTools
 
 Avoid names where the class itself does not start with `vtk`.
 
-## GitHub Setup
-
-After creating the GitHub repository, add it as the remote and push:
-
-```bash
-git remote add origin https://github.com/phuebner81/vtkUtils.git
-git branch -M main
-git push -u origin main
-```
-
-If the remote already exists, update it instead:
-
-```bash
-git remote set-url origin https://github.com/phuebner81/vtkUtils.git
-git push -u origin main
-```
 
