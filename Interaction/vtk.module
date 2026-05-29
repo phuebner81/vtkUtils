@@ -1,0 +1,10 @@
+NAME
+  VTKUTILS::Widgets
+LIBRARY_NAME
+  vtkutils
+DEPENDS
+  VTK::InteractionWidgets
+  VTK::RenderingAnnotation
+  VTK::RenderingOpenGL2
+TEST_DEPENDS
+  VTK::TestingCore
