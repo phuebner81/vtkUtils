@@ -56,6 +56,8 @@ Typical use cases include:
 * Orthographic grid visualization
 * Scene orientation helpers
 
+![vtkGridMapper grid rendering](img/grid.png)
+
 ### vtkTransformationWidget
 
 `vtkTransformationWidget` is a custom `vtk3DWidget` for interactive 3D transformations.
